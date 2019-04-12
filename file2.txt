@@ -1,0 +1,6 @@
+Starting with letters in the range [A-L] OR ending with S, case insensitive-
+1:Alphabet
+2:Apple
+3:Algorithms
+7:Analysis
+9:Lennavo
